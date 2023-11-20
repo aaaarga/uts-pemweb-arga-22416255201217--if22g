@@ -1,0 +1,16 @@
+Nama: Arga
+NIM: 22416255201217
+Kelas: IF22G
+
+Jawaban UTS Pemweb Semester 3
+1.Framework dalam pengembangan aplikasi adalah kumpulan alat, aturan, dan komponen-komponen yang sudah siap pakai yang membantu pengembang membuat aplikasi dengan lebih cepat dan efisien. 
+  Seperti memiliki petunjuk jalan yang sudah terbukti, framework menyediakan kerangka kerja untuk membangun aplikasi dengan mengatur bagaimana kode harus ditulis, bagaimana komponen-komponen harus berinteraksi, dan menyediakan fungsi-fungsi yang umum digunakan sehingga pengembang tidak perlu membuat semuanya dari awal.
+  Ini membantu menghemat waktu dan memungkinkan fokus lebih besar pada penciptaan fitur-fitur unik atau khusus dari aplikasi yang sedang dibangun.
+
+2.1 Final project aplikasi laundry.
+2.2 Joseph: Front end.
+    Jordan: Back end.
+    Arga: Database dan laporan.
+
+2.3 Permasalahan: Pemasaran produk karena tempat yang kurang strategis.
+    Solusi: Membuat promo pada aplikasi agar customer tertarik menggunakan aplikasi yang dibuat dan akan terbiasa menggunakan jasa aplikasi laundry tersebut.
